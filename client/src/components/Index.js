@@ -7,6 +7,7 @@ import {Route, Link, Routes, useParams} from 'react-router-dom'
 // import DeleteModal from './DeleteModal'
 import Modal from 'react-bootstrap/Modal'
 import Button from 'react-bootstrap/Button'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function Index() {
   const columns = [
